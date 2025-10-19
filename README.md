@@ -1,6 +1,7 @@
 # sql-data-analytics-project
 
 This is my personal toolkit of SQL scripts for real-world data exploration, analytics, and reporting. I wrote these queries to quickly profile databases, calculate core metrics, analyze time trends, run cumulative/cohort analytics, and do smart segmentation. Each script targets a specific analytical theme and shows the SQL patterns and best practices I actually use as a data analyst/BI developer.
+Built during the Udemy course taught by Baraa Khatib Salkini; course materials © their owners.
 
 ## What’s inside
 - Database exploration & profiling
